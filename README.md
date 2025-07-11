@@ -1,4 +1,4 @@
-# MyFluent AI Test Case Generator - Hackathon 2025
+# MyFluent AI and AC Test Case Generator - Hackathon 2025
 
 ## 🎯 Project Overview
 ### Project Description
